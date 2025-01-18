@@ -1,0 +1,18 @@
+﻿  kp.cpp
+C:\Users\johno\Desktop\учеба\2 курс\кп\kp\kp\kp.cpp(427,24): warning C4244: аргумент: преобразование "float" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\johno\Desktop\учеба\2 курс\кп\kp\kp\kp.cpp(632,24): warning C4244: аргумент: преобразование "float" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\johno\Desktop\учеба\2 курс\кп\kp\kp\kp.cpp(792,31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\johno\Desktop\учеба\2 курс\кп\kp\kp\kp.cpp(837,24): warning C4244: аргумент: преобразование "float" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+  kp.vcxproj -> C:\Users\johno\Desktop\учеба\2 курс\кп\kp\x64\Debug\kp.exe
